@@ -1,0 +1,35 @@
+SELECT table_schema "DB Name", Round(Sum(data_length + index_length) / 1024 / 1024, 1) "DB Size in MB" FROM information_schema.tables GROUP BY table_schema;
+
+
+https://dev.mysql.com/doc/refman/5.7/en/memory-use.html
+https://dev.mysql.com/doc/refman/5.7/en/innodb-buffer-pool-resize.html
+
+https://serverfault.com/questions/686665/mysql-showing-100-cpu-usage
+SELECT * FROM  mysql.general_log  WHERE command_type ='Query'
+https://stackoverflow.com/questions/650238/how-to-show-the-last-queries-executed-on-mysql
+my.cnf /etc/mysql/my.cnf
+
+
+
+/////////////////////////////////////////////
+
+
+
+voda_six4fix
+voda_right2study
+voda_walobby
+
+
+46.4.87.66 : 5 vh , mysql 1 and 4 - 5 db -->- content 213...
+
+ftp : 
+content : 213..
+mysql :   
+Apche :  
+
+code :  
+	-
+	-
+	-
+	- 
+
